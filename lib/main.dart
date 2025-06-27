@@ -30,7 +30,7 @@ class MainApp extends StatelessWidget {
             Padding(
               padding: const EdgeInsets.all(10.0),
               child: Text(
-                "มหาวิทยาลัยราชภัฏศรีสะเกษ",
+                "นักศึกษาสาขาวิชาวิทยาการคอมพิวเตอร์ \nคณะศิลปศาสตร์และวิทยาศาสตร์ \nมหาวิทยาลัยราชภัฏศรีสะเกษ",
                 style: TextStyle(fontSize: 20),
                 textAlign: TextAlign.center,
               ),
